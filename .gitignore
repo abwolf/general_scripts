@@ -1,0 +1,15 @@
+.DS_Store
+._msdir
+*.py~
+awscli-bundle.zip
+awscli-bundle/
+bin_ben/
+genetic_map_GRCh37_1_to_22.txt.distance.bed
+macs_nouse/
+ms-introgression-master/
+msVis/
+msdir/
+msdir_ben/
+msstats/
+sim_regions.bed.15Mb
+sim_regions_15Mb_1kb.bed
